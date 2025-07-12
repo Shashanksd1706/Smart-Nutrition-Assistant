@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+streamlit
+python-jose
+passlib[bcrypt]
+pandas
+fpdf
+google-generativeai
+requests
